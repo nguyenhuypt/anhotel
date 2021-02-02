@@ -3,7 +3,7 @@
 @section('content')
     <div class="card card-info col-6" >
         <div class="card-header">
-            <h3 class="card-title">Thêm mới nhân viên</h3>
+            <h3 class="card-title">Thêm mới sản phẩm</h3>
         </div>
         <div class="">
             <form action="{{route('admin.products.store')}}" method="post">

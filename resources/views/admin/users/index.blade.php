@@ -17,7 +17,7 @@
                 </div>
             @endif
 
-            <h3 class="card-title">Responsive Hover Table</h3>
+
 
             <div class="card-tools">
                 <a href="{{route('admin.users.create')}}" class="btn btn-primary">Thêm mới</a>
